@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">resourcesandcolors</string>
+    <string name="restart">Restart</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="this_is_true">THIS IS TRUE!</string>
+    <string name="i_work_for_kfh">I WORK FOR KFH</string>
+    <string name="i_am_25_years_old">I AM 25 YEARS OLD</string>
+    <string name="i_have_a_daughter">I HAVE A DAUGHTER</string>
+    <string name="next_question">Next Question</string>
+    <string name="this_is_wrong">THIS IS WRONG!</string>
+    <string name="correct">Correct!</string>
+    <string name="next_questions">Next Question</string>
+    <string name="wrong">Wrong!</string>
+    <string name="reset_games">Reset Game</string>
+    <string name="text">text</string>
+
+
+</resources>
